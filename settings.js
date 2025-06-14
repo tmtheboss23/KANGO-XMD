@@ -1,10 +1,10 @@
 //-------------------[ BOT SETTINGS ]------------------// 
 
-// @project_name : KANGO-XMD 
-// @author : Hector 
-// @telegram : http://t.me/official_kango
-// @github : OfficialKango
-// @whatsapp : +233509977126
+// @project_name : King von
+// @author : tmtheboss 
+// @telegram :
+// @github : tmtheboss 
+// @whatsapp : +27764054171
 
 //----------------------[ KANGO-XMD ]----------------------//
 
@@ -24,7 +24,7 @@ global.botname = process.env.BOT_NAME || 'KANGO-XMD'
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '233509977126' 
+global.ownernumber = process.env.OWNER_NUMBER || '27764054171' 
 
 //--------------------[ SUDO ]--------------------------//
 
