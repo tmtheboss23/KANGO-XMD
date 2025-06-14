@@ -22,12 +22,12 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
-      "value": "",
+      "value": "27764054171",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "tmtheboss",
       "required": true
     },
     "STICKER_PACK_NAME": {
